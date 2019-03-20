@@ -1,0 +1,106 @@
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\obj\Debug\Angular Login.csprojResolveAssemblyReference.cache
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\ApplicationInsights.config
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\roslyn\csc.exe
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\roslyn\vbc.exe
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\roslyn\VBCSCompiler.exe
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Angular Login.dll.config
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Angular Login.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Angular Login.pdb
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Antlr3.Runtime.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.AI.Web.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Newtonsoft.Json.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\System.Web.Helpers.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\System.Web.Mvc.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\System.Web.Optimization.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\System.Web.Razor.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\System.Web.WebPages.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\System.Web.WebPages.Razor.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\WebGrease.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.AI.Web.xml
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\System.Web.Helpers.xml
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\System.Web.Mvc.xml
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\System.Web.Optimization.xml
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\System.Web.Razor.xml
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\System.Web.WebPages.xml
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\System.Web.WebPages.Razor.xml
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Antlr3.Runtime.pdb
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\bin\Newtonsoft.Json.xml
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\obj\Debug\Angular Login.dll
+C:\Users\SiMJiM\Desktop\barnamenevisan\16-\sample\me\Angular Login\Angular Login\obj\Debug\Angular Login.pdb
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\ApplicationInsights.config
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\roslyn\csc.exe
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\roslyn\vbc.exe
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\roslyn\VBCSCompiler.exe
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Angular Login.dll.config
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Angular Login.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Angular Login.pdb
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Antlr3.Runtime.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.AI.Web.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.ApplicationInsights.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Newtonsoft.Json.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\System.Web.Helpers.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\System.Web.Mvc.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\System.Web.Optimization.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\System.Web.Razor.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\System.Web.WebPages.Deployment.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\System.Web.WebPages.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\System.Web.WebPages.Razor.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\WebGrease.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.AI.Web.xml
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.ApplicationInsights.xml
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\System.Web.Helpers.xml
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\System.Web.Mvc.xml
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\System.Web.Optimization.xml
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\System.Web.Razor.xml
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\System.Web.WebPages.xml
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\System.Web.WebPages.Deployment.xml
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\System.Web.WebPages.Razor.xml
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Antlr3.Runtime.pdb
+C:\Users\reza\Desktop\Angular Login\Angular Login\bin\Newtonsoft.Json.xml
+C:\Users\reza\Desktop\Angular Login\Angular Login\obj\Debug\Angular Login.csprojResolveAssemblyReference.cache
+C:\Users\reza\Desktop\Angular Login\Angular Login\obj\Debug\Angular Login.dll
+C:\Users\reza\Desktop\Angular Login\Angular Login\obj\Debug\Angular Login.pdb
